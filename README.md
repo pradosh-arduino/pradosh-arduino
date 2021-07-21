@@ -5,4 +5,6 @@ I'm the Owner of PradoshOS: https://github.com/pradosh-arduino/PradoshOS-0.1.0-i
 
 I'm the Owner of MelonOS: https://github.com/pradosh-arduino/MelonOS
 
+I'm the Owner of InfectOS: https://github.com/pradosh-arduino/InfectOS-v0.1.0
+
 I'm the Co-Owner of CoffeeOS: https://github.com/PedroElFrijol/CoffeeOS
