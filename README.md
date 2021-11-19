@@ -11,7 +11,7 @@ Project Working on: PradoshOS -- [Pradosh OS Website](https://pradosh-arduino.gi
 # 🔧 Tools & Technology
 
   **Programming language:**
-    -
+    
     ![er](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![ww](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![we](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
