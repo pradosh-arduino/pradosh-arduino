@@ -72,7 +72,7 @@ Project Working on: PradoshOS -- [Pradosh OS Website](https://pradosh-arduino.gi
 # My Stats
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&repo=PradoshOS)](https://github.com/pradosh-arduino/PradoshOS)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&show_owner=true&repo=PradoshOS)](https://github.com/pradosh-arduino/PradoshOS)
     
 # 💖 Support
    <a href="https://www.buymeacoffee.com/pradoshArduino"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a     coffee&emoji=&slug=pradoshArduino&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
