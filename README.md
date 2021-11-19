@@ -57,17 +57,25 @@ Project Working on: PradoshOS -- [Pradosh OS Website](https://pradosh-arduino.gi
    **PC Specs:**
    
    ![dk](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-   ![am](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-   ![fe](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+   ![am](https://img.shields.io/badge/AMD-Radeon_RX_530-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+   ![fe](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
     
    **Design:**
    
    ![em](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
    ![bl](https://img.shields.io/badge/blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
    
-# 
+# 👩‍💻 My OS
+   
+   This could be the whole history of PradoshOS, My OS is 1 year old - yeah, I was Developing my OS for 6 months and I Halted my Dev for 5 months and I came back to OS Dev so it's 1 years old, This was my hardest journey (yet) soo many errors, problems, stops, consequence etc, this OS took lot of effort but when my friend told me "Make it open source others will know your hard work" at the time my OS was Closed Source after hereing that I made it open source but I was still fishy, because I thought people will steal my code, so I lie-d to my friend as telling "it's still Open Source" then he found it soo i did same again, again then I told "Nope I'M NOT OPEN SOURCE-ING IT" then I halted the dev because I just can lie to hide a lie so I took break, then I was like "what if I made Open Source forever" like linux, so here im there with ![PradoshOS Github](https://github.com/pradosh-arduino/PradoshOS)
+   
+# My Stats
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&repo=github-readme-stats)](https://github.com/pradosh-arduino/PradoshOS)
     
-    
+# 💖 Support
+   <a href="https://www.buymeacoffee.com/pradoshArduino"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a     coffee&emoji=&slug=pradoshArduino&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
     
     
     
