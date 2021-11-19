@@ -6,8 +6,6 @@ I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, PCB de
 Project Working on: PradoshOS -- [Pradosh OS Website](https://pradosh-arduino.github.io/PradoshOS)
 ======
 
-<a href="https://www.buymeacoffee.com/pradoshArduino"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pradoshArduino&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
-
 # 🔧 Tools & Technology
 
   **Programming language:**
