@@ -1,6 +1,6 @@
 # 👋 Hey There!
 
-I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, PCB desing, low level and high level programming.
+I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, low level and high level programming.
 
 
 Project Working on: PradoshOS -- [Pradosh OS Website](https://pradosh-arduino.github.io/PradoshOS)
