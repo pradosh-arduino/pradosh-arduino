@@ -18,7 +18,7 @@ Project Working on: PradoshOS -- [Pradosh OS Github](https://github.com/pradosh-
    [![el](https://img.shields.io/static/v1?label=&message=Twitch&color=blueviolet&logo=Twitch&style=flat-square)](https://www.twitch.tv/itspradoshgame)
    [![hn](https://img.shields.io/static/v1?label=&message=Youtube&color=red&logo=Youtube&style=flat-square)](https://www.youtube.com/channel/UCButp2Wmz1fHpoGdbbXyTlg)
    
-# My Stats
+# ⚡ My Stats
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
    
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&show_owner=true&repo=PradoshOS)](https://github.com/pradosh-arduino/PradoshOS)
