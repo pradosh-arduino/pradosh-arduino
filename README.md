@@ -1,3 +1,5 @@
+![p_a_banner](https://user-images.githubusercontent.com/69463173/144824795-aad0ceb7-3568-4c61-96ab-9f0bf68cfab8.png)
+
 # 👋 Hey There!
 
 I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, low level and high level programming.
