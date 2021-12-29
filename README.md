@@ -1,5 +1,4 @@
 ![p_a_banner](https://user-images.githubusercontent.com/69463173/144824795-aad0ceb7-3568-4c61-96ab-9f0bf68cfab8.png)
-![yes](https://github.com/pradosh-arduino/github-stats/blob/master/generated/languages.svg)
 
 # 👋 Hey There!
 
