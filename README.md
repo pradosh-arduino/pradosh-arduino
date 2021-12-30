@@ -5,7 +5,7 @@
 I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, low level and high level programming.
 
 
-Project Working on: PradoshOS -- [Pradosh OS Github](https://github.com/pradosh-arduino/PradoshOS)
+Project Working on: Melon Language -- [Melon Language](https://github.com/pradosh-arduino/Melon-Language)
 ======
 
 # 👩‍💻 My OS
