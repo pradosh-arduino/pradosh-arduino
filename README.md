@@ -8,10 +8,6 @@ I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, low le
 Project Working on: Melon Language -- [Melon Language](https://github.com/pradosh-arduino/Melon-Language)
 ======
 
-# 👩‍💻 My OS
-   
-   This could be the whole history of PradoshOS, My OS is 1 year old - yeah, I was Developing my OS for 6 months and I Halted my Dev for 5 months and I came back to OS Dev so it's 1 years old, This was my hardest journey (yet) soo many errors, problems, stops, consequence etc, this OS took lot of effort but when my friend told me "Make it open source others will know your hard work" at the time my OS was Closed Source after hereing that I made it open source but I was still fishy, because I thought people will steal my code, so I lie-d to my friend as telling "it's still Open Source" then he found it soo i did same again, again then I told "Nope I'M NOT OPEN SOURCE-ING IT" then I halted the dev because I just can lie to hide a lie so I took break, then I was like "what if I made Open Source forever" like linux, so here im there with [![dce3e](https://img.shields.io/static/v1?label=ㅤ&message=PradoshOS&color=brightgreen)](https://github.com/pradosh-arduino/PradoshOS)
-   
 # 🌏 Find me some where else!
    [![dc](https://img.shields.io/static/v1?label=&message=Discord&color=white&logo=Discord&style=flat-square)](https://discord.gg/ztxMjnpHf9/)
    [![dz](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/pradosh-os-142a431b7/)
