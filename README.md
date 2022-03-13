@@ -1,9 +1,4 @@
 
-
-![video](https://user-images.githubusercontent.com/69463173/154795764-bf2c6f99-4eb7-456a-a667-6cb50fb034eb.mp4)
-
-
-
 # 👋 Hey There!
 
 I do OS dev, Game Dev, 3D Modeling and animations, Electronics, robotics, low level and high level programming.
@@ -21,16 +16,10 @@ Project Working on: Melon Language -- [Melon Language](https://github.com/prados
 # ⚡ My Stats
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&show_owner=true&repo=PradoshOS)](https://github.com/pradosh-arduino/PradoshOS)
-   
    [![Melon](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&show_owner=true&repo=Melon-Language)](https://github.com/pradosh-arduino/Melon-Language)
    
    [![Static](https://github-readme-stats.vercel.app/api/pin/?username=pradosh-arduino&show_owner=true&repo=StaticAI)](https://github.com/pradosh-arduino/StaticAI)
     
 # 💖 Support
    <a href="https://www.buymeacoffee.com/pradoshArduino"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a     coffee&emoji=&slug=pradoshArduino&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
-    
-    
-    
-    
-    
+   
