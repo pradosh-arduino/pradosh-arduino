@@ -5,7 +5,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pradosh-arduino&repo=Melon-Language&show_owner=true)](https://github.com/pradosh-arduino/Melon-Language)
   
 # 🌟 My Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=merko)
  
 # 🌎 Find Me Some where else!
   [![discord](https://img.shields.io/badge/-Discord-blue?style=flat-square)](https://discord.gg/ChP4RMgcKG)
