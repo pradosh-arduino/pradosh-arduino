@@ -1,8 +1,8 @@
 # 🙋‍♂️ Hey there!
   I'm S.Pradosh, from India. I'm a Dev who does both hardware and software
   
-# 🌱 What Have I been working on? -- Melon Language
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pradosh-arduino&repo=Melon-Language)](https://github.com/pradosh-arduino/Melon-Language)
+# 🌱 What Have I been working on?
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pradosh-arduino&repo=Melon-Language&show_owner=true)](https://github.com/pradosh-arduino/Melon-Language)
   
 # 🌟 My Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=radical)
