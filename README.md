@@ -13,6 +13,4 @@
   [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square)](https://www.twitch.tv/itspradoshgame)
   
 # 💖 Support
-  ![bmac](https://img.buymeacoffee.com/button-api/?text=Buy%0ame%0a%0acoffee&emoji=&slug=pradoshArduino&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)
-  
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1BKS5N)
