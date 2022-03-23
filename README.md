@@ -10,6 +10,9 @@
   
 ## 🌟 My Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&theme=cobalt)
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=pradosh-arduino)
+  
  
 ## 🌎 Find Me Some where else!
   [![discord](https://img.shields.io/badge/-Discord-blueviolet?style=flat-square&logo=discord)](https://discord.gg/ChP4RMgcKG)
