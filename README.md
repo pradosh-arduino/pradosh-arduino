@@ -34,7 +34,7 @@
 <p><a href="https://www.buymeacoffee.com/pradoshArduino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pradoshArduino" /></a><a href="https://ko-fi.com/pradosh_arduino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pradosh_arduino" /></a></p><br><br>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradosh-arduino&show_icons=true&locale=en&layout=compact" alt="pradosh-arduino" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradosh-arduino&show_icons=true&locale=en" alt="pradosh-arduino" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pradosh-arduino&show_icons=true&locale=en" alt="pradosh-arduino" /></p>
 
