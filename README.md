@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Pradosh or Mostly knows has helloImPR</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradosh-arduino&label=Profile%20views&color=0e75b6&style=flat" alt="pradosh-arduino" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradosh-arduino&label=Profile%20views&color=0e75b6&style=flat-square" alt="pradosh-arduino" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradosh-arduino" alt="pradosh-arduino" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pradoshgame" target="blank"><img src="https://img.shields.io/twitter/follow/pradoshgame?logo=twitter&style=for-the-badge" alt="pradoshgame" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pradoshgame" target="blank"><img src="https://img.shields.io/twitter/follow/pradoshgame?logo=twitter&style=flat-square" alt="pradoshgame" /></a> </p>
 
 - 🔭 I’m currently working on [Melon Language](https://github.com/pradosh-arduino/Melon-Language)
 
 - 🌱 I’m currently learning **Lua**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pradosh-arduino](https://github.com/pradosh-arduino)
+- 👨‍💻 All of my projects are available at [github.com/pradosh-arduino](https://github.com/pradosh-arduino)
 
 - 💬 Ask me about **Melon Language / Static AI / PradoshOS**
 
