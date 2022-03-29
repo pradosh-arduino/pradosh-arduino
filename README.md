@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradosh-arduino&label=Profile%20views&color=0e75b6&style=flat-square" alt="pradosh-arduino" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradosh-arduino" alt="pradosh-arduino" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 <p align="left"> <a href="https://twitter.com/pradoshgame" target="blank"><img src="https://img.shields.io/twitter/follow/pradoshgame?logo=twitter&style=flat-square" alt="pradoshgame" /></a> </p>
 
