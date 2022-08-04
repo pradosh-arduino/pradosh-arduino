@@ -5,6 +5,6 @@
 <p align="center">
   <h1>My Workspace</h1>
   <a href="https://github.com/pradosh-arduino">
-    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,cs,lua,bash,dotnet,github,idea,linux,md,python,raspberrypi,stackoverflow,vscode,visualstudio,blender,arduino," />
+    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,cs,lua,bash,dotnet,github,idea,linux,md,python,raspberrypi,stackoverflow,vscode,visualstudio,blender,arduino,"   />
   </a>
 </p>
