@@ -35,7 +35,7 @@
 
 ###
 
-![Snake animation](https://github.com/pradosh-arduino/pradosh-arduino/blob/output/github-contribution-grid-snake.svg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Snake animation](https://github.com/pradosh-arduino/pradosh-arduino/blob/output/github-contribution-grid-snake.svg){:.centered}
 
 ###
 
