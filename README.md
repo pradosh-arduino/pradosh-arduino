@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/pradosh-arduino/pradosh-arduino/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/pradosh-arduino/pradosh-arduino/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
