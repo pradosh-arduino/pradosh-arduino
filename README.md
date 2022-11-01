@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![22](https://github-readme-stats.vercel.app/api?&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&username=pradosh-arduino)  
+![22](https://github-readme-stats.vercel.app/api?&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=true&username=pradosh-arduino)  
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=pradosh-arduino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
