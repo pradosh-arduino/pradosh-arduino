@@ -8,8 +8,10 @@
 
 ###
 
+<div align="center">
 ![22](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=pradosh-arduino)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=pradosh-arduino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 ###
 
