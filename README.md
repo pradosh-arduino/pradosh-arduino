@@ -43,7 +43,7 @@ and many Many More, I code in lots of diffrent programming languages my fav are 
 
 ###
 
-[![Snake animation](https://github.com/pradosh-arduino/pradosh-arduino/blob/output/github-contribution-grid-snake.svg)](https://github.com/pradosh-arduino/pradosh-arduino/blob/output/github-contribution-grid-snake2.svg)
+![SNAKE](https://raw.githubusercontent.com/pradosh-arduino/pradosh-arduino/output/github-contribution-grid-snake2.svg)
 
 ###
 
