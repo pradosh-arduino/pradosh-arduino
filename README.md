@@ -15,6 +15,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=pradosh-arduino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradosh-arduino&layout=compact&theme=radical&hide_border=true)
+
+[![YT](https://youtube-stats-card.vercel.app/api?channelid=UC--vE8xV5vTVl4UMSq-q5ZA&hide_border=true&theme=radical)](https://www.youtube.com/channel/UC--vE8xV5vTVl4UMSq-q5ZA)
 </div>
 
 ###
