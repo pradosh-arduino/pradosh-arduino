@@ -1,10 +1,7 @@
 ![poster](https://user-images.githubusercontent.com/69463173/159645633-6096a6ed-b759-4ad9-879c-df36cd008cfe.png)
 
-<h3 align="center">Hi 👋! My name is Pradosh or known as "helloImPR" and I'm a Programmer and a really cool graphics designer</h3>
-
-###
-
-<h6 align="center">Thank you soo much for visiting my Github Page</h6>
+<h2 align="center">Hi Welcome👋!</h3>
+Hi My Name is Pradosh and I have some some cool softwares like [Melon Language](https://pradosh-arduino.github.io/melonlang/), [XeonAI](https://github.com/pradosh-arduino/XeonAI), [GoGX OS](https://github.com/pradosh-arduino/GoGX-OS) Many More, I code in lots of diffrent programming languages my fav are C# and [Melon Language](https://pradosh-arduino.github.io/melonlang/) I am a good Graphics Designer and I do work on Hardwares Like Arduino, Raspberry PI etc
 
 ###
 
