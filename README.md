@@ -43,10 +43,6 @@ and many Many More, I code in lots of diffrent programming languages my fav are 
 
 ###
 
-![SNAKE](https://raw.githubusercontent.com/pradosh-arduino/pradosh-arduino/output/github-contribution-grid-snake2.svg)
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/pradosh-arduino/count.svg?"  />
 </div>
