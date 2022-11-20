@@ -42,6 +42,7 @@ and many Many More, I code in lots of diffrent programming languages my fav are 
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://wakatime.com/@cc9733ef-b0fa-42a2-8f7f-f1f480b03177"><img src="https://wakatime.com/badge/user/cc9733ef-b0fa-42a2-8f7f-f1f480b03177.svg?style=for-the-badge" alt="Total time coded since Nov 2 2022" /></a>
+  <a href="https://saythanks.io/to/pradosh-arduino"><img src="https://img.shields.io/badge/say-thanks-ff69b4.svg?style=for-the-badge" alt="say thanks" /></a>
 </div>
 
 ###
