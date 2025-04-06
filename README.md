@@ -1,4 +1,4 @@
-![](https://github.com/pradosh-arduino/pradosh-arduino/blob/main/prad-banner.png)
+![banner-github](https://github.com/user-attachments/assets/97279e50-195f-4806-a029-faec24ee1cae)
 
 # Hi there, I'm Pradosh! 👋
 
