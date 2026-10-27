@@ -39,6 +39,8 @@ Passionate about programming and technology. Here's a bit about me:
 
 <div align="center">
 
+![Setup](https://pbs.twimg.com/profile_banners/1447468358505435146/1780051487/600x200)
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
